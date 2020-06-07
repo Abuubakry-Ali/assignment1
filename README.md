@@ -1,4 +1,4 @@
-# Case Study - REMITR  ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fremitr.com%2F&psig=AOvVaw3EU5BKu8P2y3tNpRffI9Uv&ust=1591581791302000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDI0qzO7ukCFQAAAAAdAAAAABAD)
+# Case Study - REMITR  ![alt text](https://www.eshipper.com/hubfs/Remitr_guest%20blog-3.png)
 ## Overview and Origin
 REMITR was incorporated in 2016. It is a payment system that allows people and 
 businesses to send money internationally quickly, safely, and at a low cost. The company was founded by Kanchan Kumar and Sandeep Todi. Kanchan Kumar has worked on other startups before REMITR and Sandeep has a lot of experience in software development. They decided to start REMITR because of the challenges that came with making business payments using traditional banks. They decided to build a better solution that would also make global business easy. The company has received a total of 1 million dollars of funding from investors. 
@@ -45,13 +45,13 @@ I would also suggest they add the option to top up mobile wallets from different
 
 
 ## Sources
-https://www.owler.com/company/remitr
-https://www.icomparefx.com/remitr-competitors-and-alternatives/\
-https://www.crunchbase.com/organization/remitware-payments#section-overview
-https://bitcoinexchangeguide.com/remitr-remitware/
-http://timesofindia.indiatimes.com/articleshow/54659432.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
-https://codete.com/blog/7-key-payments-innovations-in-fintech-for-2020/
-https://remitr.com/
-https://remitr.com/blog/
-https://www.linkedin.com/company/myremitr/
-https://www.icomparefx.com/remitr-competitors-and-alternatives/
+* [https://www.owler.com/company/remitr](https://www.owler.com/company/remitr)
+* [https://www.icomparefx.com/remitr-competitors-and-alternatives](https://www.icomparefx.com/remitr-competitors-and-alternatives)
+* [https://www.crunchbase.com/organization/remitware-payments#section-overview](https://www.crunchbase.com/organization/remitware-payments#section-overview)
+* [https://bitcoinexchangeguide.com/remitr-remitware/](https://bitcoinexchangeguide.com/remitr-remitware/)
+* [http://timesofindia.indiatimes.com/articleshow/54659432.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst](http://timesofindia.indiatimes.com/articleshow/54659432.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
+* [https://codete.com/blog/7-key-payments-innovations-in-fintech-for-2020/](https://codete.com/blog/7-key-payments-innovations-in-fintech-for-2020/)
+* [https://remitr.com/](https://remitr.com/)
+* [https://remitr.com/blog/](https://remitr.com/blog/)
+* [https://www.linkedin.com/company/myremitr/](https://www.linkedin.com/company/myremitr/)
+* [https://www.icomparefx.com/remitr-competitors-and-alternatives/](https://www.icomparefx.com/remitr-competitors-and-alternatives/)
