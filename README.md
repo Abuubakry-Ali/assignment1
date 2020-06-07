@@ -1,4 +1,4 @@
-# Case Study - REMITR
+# Case Study - REMITR  ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fremitr.com%2F&psig=AOvVaw3EU5BKu8P2y3tNpRffI9Uv&ust=1591581791302000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDI0qzO7ukCFQAAAAAdAAAAABAD)
 ## Overview and Origin
 REMITR was incorporated in 2016. It is a payment system that allows people and 
 businesses to send money internationally quickly, safely, and at a low cost. The company was founded by Kanchan Kumar and Sandeep Todi. Kanchan Kumar has worked on other startups before REMITR and Sandeep has a lot of experience in software development. They decided to start REMITR because of the challenges that came with making business payments using traditional banks. They decided to build a better solution that would also make global business easy. The company has received a total of 1 million dollars of funding from investors. 
